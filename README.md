@@ -1,4 +1,4 @@
-## eSponsorTech
+# eSponsorTech
 
 - Este proyecto fue desarrollado en lenguaje PHP, utilizando el framework Laravel.
 - Es un proyecto Web, que utiliza el patrón de arquitectura MVC (modelo, vista, controlador).
