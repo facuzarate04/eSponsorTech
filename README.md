@@ -7,7 +7,7 @@ Durante el desarrollo del mismo, se utilizó la metodología GitFlow de Git, par
 
 ## Versions.
 - PHP v 8.0.3
-- Laravel v 4.2.4
+- Laravel v 8.49.2
 - Maria DB 10.4.18
 
 ## Requeriments.
