@@ -38,7 +38,7 @@ php artisan migrate:fresh --seed
 
 #### En caso de ser necesario, crear un VHost local, para acceder a la URL definida en el archivo .env.
 
-##Importante!
+## Importante!
 -En el video se muestra la corrección de un pequeño error de redireccionamiento.
 -En el HomeController, método store, hay que redireccionar a la vista principal "/" y NO al "/home".
 -En la view Home, hay que cambiar el action del formulario para guardar el Tweet, y colocar el action="" (vacío).
