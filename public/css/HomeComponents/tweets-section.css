@@ -1,0 +1,41 @@
+#tweets-section{
+    padding: 20px 80px;
+    text-align: center;
+}
+
+#tweet-component{
+    padding: 10px;
+    border: 2px solid gray;
+    text-align: start;
+    width: 80%;
+    margin: auto;
+    margin-top: 2px;
+}
+
+#tweet-component #header{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+}
+
+#tweet-component #body{
+    width: 80%;
+    margin: auto;
+}
+#tweet-component #body h5{
+    font-weight: lighter;
+}
+
+
+@media screen and (max-width: 700px) {
+    #tweet-component{
+        width: 100%;
+    }
+    #tweets-section{
+        padding: 20px 40px;
+    }
+}
+
+
+
