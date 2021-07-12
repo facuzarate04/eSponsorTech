@@ -20,7 +20,7 @@ Durante el desarrollo del mismo, se utilizó la metodología GitFlow de Git, par
 - npm install
 
 ### Crear DB
-Para este proyecto se utilizó el motor de DB MySQL y el gestor María DB
+Para este proyecto se utilizó el gestor María DB
 
 ### Generar archivo .env cob las siguientes consideraciones.
 - BROADCAST_DRIVER=log
